@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Application">
+        <file>Resources/Images/icon_close_hover.svg</file>
+        <file>Resources/Images/icon_close_normal.svg</file>
+        <file>Resources/Images/icon_close_press.svg</file>
+        <file>Resources/Images/icon_maximize_close.svg</file>
+        <file>Resources/Images/icon_maximize_hover.svg</file>
+        <file>Resources/Images/icon_maximize_normal.svg</file>
+        <file>Resources/Images/icon_minimize_close.svg</file>
+        <file>Resources/Images/icon_minimize_hover.svg</file>
+        <file>Resources/Images/icon_minimize_normal.svg</file>
+        <file>Resources/Styles/ApplicationStyles.qss</file>
+    </qresource>
+</RCC>

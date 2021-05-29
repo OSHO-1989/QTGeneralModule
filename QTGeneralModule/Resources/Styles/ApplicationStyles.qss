@@ -1,0 +1,35 @@
+QPushButton#minimizeButton {
+	border-image: url(:/Application/Resources/Images/icon_minimize_normal.svg);
+}
+
+QPushButton#minimizeButton:hover {
+	border-image: url(:/Application/Resources/Images/icon_minimize_hover.svg);
+}
+
+QPushButton#minimizeButton:pressed {
+	border-image: url(:/Application/Resources/Images/icon_minimize_close.svg);
+}
+
+QPushButton#maximizeButton {
+	border-image: url(:/Application/Resources/Images/icon_maximize_normal.svg);
+}
+
+QPushButton#maximizeButton:hover {
+	border-image: url(:/Application/Resources/Images/icon_maximize_hover.svg);
+}
+
+QPushButton#maximizeButton:pressed {
+	border-image: url(:/Application/Resources/Images/icon_maximize_close.svg);
+}
+
+QPushButton#closeButton {
+	border-image: url(:/Application/Resources/Images/icon_close_normal.svg);
+}
+
+QPushButton#closeButton:hover {
+	border-image: url(:/Application/Resources/Images/icon_close_hover.svg);
+}
+
+QPushButton#closeButton:pressed {
+	border-image: url(:/Application/Resources/Images/icon_close_press.svg);
+}
